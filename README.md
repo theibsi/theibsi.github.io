@@ -1,7 +1,7 @@
 # Test for IBSI
 
 ## WebPage: 
-https://rkpandya.github.io/test/
+https://github.com/theibsi/theibsi.github.io
 
 ## Google Group: 
 https://groups.google.com/forum/#!forum/the_ibsi
