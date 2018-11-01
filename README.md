@@ -1,7 +1,13 @@
-# Test for IBSI
+## The Image Biomarker Standardization Initiative (IBSI)
 
 ## WebPage: 
-https://github.com/theibsi/theibsi.github.io
+https://theibsi.github.io/
+
+## Documentation:
+https://theibsi.github.io/documentation/
+
+## Upload Page:
+https://theibsi.github.io/uploads/
 
 ## Google Group: 
 https://groups.google.com/forum/#!forum/the_ibsi
