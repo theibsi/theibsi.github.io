@@ -4,10 +4,10 @@
 https://theibsi.github.io/
 
 ## Documentation:
-https://ibsi.readthedocs.io/en/latest/
+https://ibsi.readthedocs.io/
 
 ## Upload Page:
-https://ibsi.radiomics.hevs.ch/team-name
+https://ibsi.radiomics.hevs.ch/
 
 ## Google Group: 
 https://groups.google.com/forum/#!forum/the_ibsi
