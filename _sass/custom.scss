@@ -1,0 +1,54 @@
+// minor customizations
+.site-logo {
+  max-height: 3.5em;
+}
+
+#credits {
+  margin: 0;
+  padding: 0;
+  font-size: 8pt;
+}
+
+.participants-table {
+  thead tr {
+    background-color: #eee;
+  }
+
+  tr:nth-child(even) {
+    background-color: #eee;
+  }
+
+  td,
+  th {
+    padding: 1em;
+    border: 1px solid #ddd;
+  }
+}
+
+small {
+  font-size: smaller;
+}
+
+.contact-image{
+    max-height: 64px;
+}
+
+.team-members{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    .team-member{
+        margin: 1em;
+        
+        text-align: center;
+
+        img{
+            max-height: 96px;
+        }
+
+        span{
+            display: block
+        }
+    }
+}
